@@ -1,0 +1,309 @@
+﻿ticker,desc
+A2M,"Producing, marketing and selling branded dairy and infant formula products in targeted global markets"
+NCM,"Exploration, development, mining and the sale of gold."
+DMP,Food retailer operating pizza chain comprising both franchisee owned and company owned corporate stores.
+SBM,Gold producer and explorer
+WHC,Coal mining and exploration
+MQG,"Non-operating holding company for consolidated entity - financial services provider of banking, financial, advisory, investment and funds management services."
+ING,Poultry producer
+ELD,.
+SKI,Investing in a diversified portfolio of quality utility style assets
+CWY,"waste management, operating a national network of unique collection, processing, treatment and landfill assets"
+MIN,Mining services
+IPH,Provision of intellectual property services.
+LNK,Technology enabled administrator of financial ownership data
+BWP,"Warehouse retailing properties, in particular, Bunnings Warehouses."
+GMG,"International industrial and business space property, development and funds management business."
+PLS,Lithium and tantalum exploration and mine development
+AMI,"Gold and Base Metal Mining and Exploration in NSW, Australia."
+EPW,The Company sells electricity to large and small business customers in Australia and the United States. The Company also has ownership interests in and operates two low emission gas-fired power stations in Australia.
+IAG,"Provider of general insurance, including full range of personal and commercial insurance products."
+MYR,The operation of a portfolio of 66 department stores across Australia.
+MVF,Provider of assisted reproductive services and ultrasound services.
+DOW,"Downer EDI Limited designs, builds and sustains assets, infrastructure and facilities and it is the leading provider of integrated services in Australia and New Zealand."
+PTM,Fund manager which specialises in investing in global equities.
+MYS,Diversified financial services.
+OML,Out of home advertising
+TCL,"Owner, operator and developer of electronic toll roads and intelligent transport systems."
+CUV,"Clinuvel Pharmaceuticals Ltd. is a leading and innovative Australian company focused on the development of SCENESSE¿  (afamelanotide), its proprietary first-in-class drug, as a photoprotective in a range of UV and light related skin disorders and as a repigmentation therapy in the common skin disorder vitiligo."
+AMP,"Provider of life insurance, superannuation, pensions and other financial services in Australia and New Zealand."
+JMS,Mining Investment
+JHC,Residential aged care operator
+GPT,Property investment.
+FNP,"The sourcing, manufacturing, selling, marketing and distribution of specialty cereal and snacks and plant and dairy beverages.  The selling, marketing and distribution of canned specialty seafood.  Investment in large scale dairy farming operations."
+VCX,AREIT - Shopping centre owner and manager
+ARQ,Offers cloud-based technology services that helps organisations of all sizes to successfully do business online.
+IFL,Financial services
+SAR,Gold Production and  Exploration
+NUF,Australasian marketer and manufacturer of chemicals.
+LLC,"The Lendlease Group operates in the Asia Pacific, Europe and the Americas regions in the areas of:
+- retail property management, asset management and development;
+- large scale urban regeneration and greenfield development projects;
+- real estate inve"
+ALQ,"The provision of professional technical testing services to the global Minerals, Life Sciences, Energy and Industrial sectors."
+BKL,Natural health solutions
+PGH,"Manufacturer of rigid plastics packaging, metals packaging and related products."
+BKW,Building products; land & development; and investments.
+PLG,Funds and asset management
+ABC,"Manufacture of cement, lime, concrete and aggregates and concrete masonry products"
+HPI,Ownership of real property.
+DCN,Gold exploration.
+ECX,"Vehicle and equipment financing, management and administrative business."
+AMC,"With over A$9.5 billion dollars in sales, 27,000 employees and more than 180 sites across 43 countries, Amcor holds global market leading positions in the flexible and rigid plastic packaging segments.  Headquartered in Melbourne, Australia, Amcor's global operations supply a broad range of responsible packaging solutions for customers servicing the food, beverage and healthcare sectors."
+EHE,Residential aged care operator.
+BSL,steel manufacture
+HUB,Investment and superannuation platform services.
+ALU,Development and sales of computer Software for the design of electronic products.
+CDD,"Cardno is an infrastructure, environmental and social development company; improving the lives of people and communities around the world."
+IDR,Ownership of Australian real estate assets with a workspace sector focus.
+KAR,Oil and gas exploration
+ILU,Production of mineral sands.
+COH,Manufacture and sale of Cochlear implant systems.
+CCP,The Company operates within the Australian debt collection and consumer lending industry.
+ASL,"Ausdrill is an international mining services group, providing leading edge drill and blast, exploration, supply and logistics services to the world's major mining companies."
+VRL,"Cinema Exhibition, Film Production, Film Distribution, Theme Parks,
+Marketing Solutions."
+BIN,Waste management
+URW,"Owner and operator of commercial property portfolio in Europe, United Kingdom and United States, predominately shopping centres and also offices and convention & exhibition centres."
+RHC,"Ramsay Health Care Limited is a global hospital group owning and operating a comprehensive range of healthcare facilities across Australia, France, Indonesia, Malaysia and the United Kingdom."
+CTD,Provider of travel management services to the corporate market.
+RMD,Medical device manufacturing
+ARF,"Arena REIT owns, manages and develops specialised real estate assets across Australia. Arena REIT's portfolio of social infrastructure assets is leased to a diversified tenant base in the  early learning and healthcare sectors."
+BHP,"Minerals exploration, production and processing (particularly coal, iron ore, copper and manganese ore) and hydrocarbon exploration, production and refining."
+CL1,Provision of cloud-based self-managed superannuation fund administration software solutions and services.
+SHV,"The growing, processing, packaging and marketing of almonds from company owned orchards and investor owned orchards, and the processing, packaging and marketing of nuts, fruit based, and associated products to the Australian retail and industrial markets."
+WBC,"Banking, financial and related services."
+AMA,"Focused on the wholesale vehicle aftercare and accessories market, including smash repair shops, automotive and electrical components, vehicle protection bull bars and other servicing workshops for brakes and  transmissions."
+AOG,"Aveo is a leading and trusted owner, operator and manager of retirement communities across Australia. Aveo¿¿¿s philosophy is underpinned by a commitment to grow with older Australians by inspiring greater living choices. We currently do so for 13,000 resi"
+SPK,Telecommunications services
+SFR,Gold and base metal exploration.
+BAP,Distributor of automotive aftermarket parts.
+QAN,"The operation of international and domestic air transportation services, the sale of worldwide and domestic holiday tours and associated support activities including catering, information technology, ground handling and engineering and maintenance."
+AGL,The Company operates Australia's largest retail energy and dual fuel customer base and consist of a substantial portfolio of wholesale energy contracts and assets to support its retail customer base.
+AAD,Operation of premium leisure assets.
+PNV,"PolyNovo develops and commercialises innovative medical devices using its NovoSorb technology in the treatment of burns, surgical wounds and Negative Pressure Wound Therapy."
+HVN,"Principal activities of the consolidated entity continue to be that of an integrated retail, franchise and property entity including, franchisor, Sale of furniture, bedding, computer, communications and consumer electrical products in New Zealand, Slovenia and Ireland, Property investment, Lessor of premises to franchisees and other third parties, Media placement, Provision of consumer finance"
+ORI,"Orica is the largest provider of commercial explosives and blasting systems to the mining and infrastructure markets, the global leader in the provision of ground support in mining and tunnelling, and the leading supplier of sodium cyanide for gold extraction."
+SDF,Insurance broking and underwriting services.
+SCP,Real estate investment trust.
+NSR,Manages and operates self-storage centres.
+NVT,The provision of pre-university and university programmes for domestic and overseas students.
+TPM,Telecommunications
+RWC,"Design, manufacture and supply of water flow and control products and solutions for the plumbing industry"
+MND,Provision of engineering services within Australia.
+CSL,"Development, manufacturing and marketing of pharmaceutical and diagnostic products, cell culture media and human plasma fractions."
+CWN,"An international casino and gaming entity, with businesses and investments in key international markets."
+WTC,Provider of software solutions to the logistics industry globally
+IVC,"Provider of funerals, burials and cremations."
+MTS,"Wholesaler to independent retailers in food, grocery, liquor, hardware and automotive industries."
+WBA,"Production, processing and marketing of Horticulture and Agriculture activities"
+BWX,Vertically integrated beauty and personal care production and distribution company.
+CPU,"The operation of a computer bureau, operation of share registries and the provision of software specialising in share registry, financial and stock markets."
+STO,"Gas and petroleum exploration and the production, treatment and marketing of natural gas, crude oil, condensate, naphtha and liquid petroleum gas; transportation by pipeline of crude oil."
+DHG,Real estate media and technology services business focussed on the Australian property market
+VOC,"A vertically integrated telecommunications provider, operating in the Australian and New Zealand markets. The Company owns an extensive national infrastructure network of metro and back haul fibre connecting all capital cities and most regional centres ac"
+NWH,"Provisions of services, including civil contracting, mining services, and equipment to the resources sector."
+OFX,Provider of online international payment services for consumer and business clients.
+BGA,"Processing, manufacturing, cutting and packaging traditional cheese products, as well as the manufacture of other high value dairy products."
+RFF,Rural property investment
+FPH,"Fisher & Paykel Healthcare is a world leader in medical devices and systems for use in respiratory care, acute care, surgery and in the treatment of obstructive sleep apnea. Our products are sold in more than 120 countries around the world and we estimate"
+VVR,Owing and leasing freehold property (petrol stations).
+ALX,Operator and manager of a portfolio of toll road assets.
+OZL,"OZ Minerals is an Australian based modern mining company with a focus on copper. OZ Minerals owns the Prominent Hill copper-gold mine and Carrapateena copper-gold project, both situated in South Australia."
+ARB,"The manufacture, distribution and sale of four-wheel drive motor vehicle accessories and light metal engineering works."
+DLX,"Provider of premium branded paint, coatings, adhesives, garden care and other building products to the residential home improvement, commercial and infrastructure markets across Australia, New Zealand and Papua New Guinea, with niche positions in China and South East Asia"
+DXS,Australian Real Estate Investment Trust
+NST,Gold production and exploration for gold and other minerals.
+TNE,"Software Sales, Services, R&D"
+HSO,"Healthscope Limited is Australia's second largest private hospital operator, a leading provider of pathology services in Australia, New Zealand, Malaysia and Singapore and has a long history of operations in healthcare."
+PPT,"Trustees, executors, investment managers, funds management, investment administration, custody and registry services."
+BEN,"Provision of a range of banking and other financial services, including retail banking, mortgage distribution through third-parties, business lending, margin lending, business banking and commercial finance, invoice discounting, funds management, treasury and foreign exchange services. (Including trade finance), superannuation, financial advisory and trustee services."
+CIM,"Formerly Leighton Holdings Limited, CIMIC Group Limited is the parent company of Australia's largest project development and contracting group. The Groups companies provide construction, mining and operation and maintenance services to the infrastructure."
+BLD,Manufacture and supply of building and construction materials
+EHL,"Selling, renting and maintaining heavy earthmoving equipment to customers in the mining industry in Australia and overseas."
+CMW,Internally managed Australian Real Estate Investment Trust (A-REIT) and a property fund manager
+LOV,International specialist fast fashion jewellery retailer.
+VLW,"Villa World's core business is the development of affordable residential communities within Queensland, New South Wales and Victoria, specialising in land only, land and volume speculative housing, and townhouse developments."
+IOF,"Investa Office Fund, previously known as ING Office Fund, is a leading owner and manager of investment grade office buildings in core CBD markets throughout Australia."
+NXT,"Establishment, development and operation of data centre facilities."
+GUD,"Distributor of automotive filtration and other service parts, locking systems and other security products, water pumps,pool equipment and associated equipment industrial and commercial storage products and systems, electrical appliances, cleaning products"
+SXY,"Petroleum production, exploration and development."
+CBA,"Banking, financial and related services."
+ORG,Operating energy businesses
+SOL,"Investment, coal mining, pharmaceutical, telecommunications, building materials."
+FLT,"Travel retailing in both the leisure and corporate travel sectors, plus in-destination travel experience including tour operators, hotel management, destination management companies (DMCs) and wholesaling."
+SHL,"Sonic Healthcare is one of the world's largest medical diagnostics companies, providing laboratory and radiology services to medical practitioners, hospitals, community health services, and their collective patients. We also operate Australia's largest ne"
+FMG,"Mining, processing and transporting of iron ore for export from the Company's deposits within the Pilbara region of Western Australia"
+WPP,"STW Group is Australasia's largest marketing communications group, comprising over 70 specialist companies."
+APA,APA Group is Australia's largest natural gas infrastructure business
+NGI,Diversified Financials
+ORA,"Orora is a leader in innovative packaging solutions, employing 5,500 people across 122 sites in 7 countries. Orora supplies a broad range of fibre, metal and glass packaging solutions, as well as packaging services including design, distribution and recyc"
+IRE,The provision of IT solutions to financial market participants and wealth managers.
+BAL,Producer and distributor of branded food product.
+CAR,Online automotive advertising.
+IPL,"Manufacture and distribution of industrial explosives, industrial chemicals and fertilisers, and the provision of related services."
+EML,Issuer of pre-paid financial cards.
+SRV,"Provides shared workspace, secretarial & IT services to companies and individuals in Australia and overseas."
+RSG,Gold mining; development of resource projects and prospecting and exploration for minerals.
+SUL,"The operation of specialty retail stores in the automotive, tools, leisure and sports categories."
+CKF,Restaurant operations.
+WOR,"Provider of Professional Services to the Energy, Resource and Complex Process Industries"
+IFN,"Infigen Energy is an active participant in the Australian energy market. It is a developer, owner and operator of renewable energy generation assets delivering energy solutions to Australian businesses and large retailers."
+AWC,"Joint venture interest in bauxite mining, alumina refining, alumina based chemicals and aluminium smelting via its 40 per cent interest in the series of operating entities of Alcoa World Alumina & Chemicals (AWAC)."
+NCK,Furniture Retailing
+JBH,"The Company is a specialty retailer of home consumer products with particular focus on consumer electronics, software (including music, games and movies), whitegoods and appliances."
+XRO,The Company is a provider of online accounting software for small businesses.
+CCL,"Manufacture, distribution and marketing of beverages."
+GOR,Gold and other minerals exploration.
+SDA,Satellite network service provider.
+MNY,Financial Services
+NCZ,Mineral exploration and development.
+SSM,"The Service Stream Group provides services to infrastructure based industries predominantly in the  telecommunications and utilities sectors  providing specialist end-to-end services including fixed line & wireless infrastructure design, maintenance, depl"
+RIO,"Production of copper, gold, iron ore, coal, aluminium, borates, titanium dioxide and other minerals and metals."
+APT,Technology ¿¿¿¿¿¿ software and services
+MLD,"Contract Mining
+Civil Earthworks
+Crushing and Screening
+Structural, Mechanical and Piping"
+QUB,Logistics
+KDR,Mining explorer.
+GEM,Child care operator
+COE,.
+CGC,"Growing, packing and marketing fresh produce"
+RRL,Gold and mineral exploration.
+CQR,Investment in supermarkets and shopping centres in Australia.
+MPL,Private health insurance.
+TME,Online marketplace and classified advertising platform based in New Zealand.
+MMS,"Salary packaging, asset management, vehicle finance, insurance and warranty."
+CSR,Building products
+AIA,Airport operations
+NWS,"Global newspaper and book publishing, related media and information services, integrated marketing services, digital real estate and education services, sports programming and pay-TV distribution in Australia."
+SIQ,Salary packaging administration and fleet management services.
+SIG,"Sigma Healthcare is the largest full line pharmacy wholesaler in Australia, has the largest footprint of branded pharmacies, has an expanding national hospital services business, and provides national third party logistics services."
+SCO,Debtor finance and trade finance provider
+ANN,"Ansell is a world leader in providing superior health and safety protection solutions that enhance human well-being. With operations in four regions, Ansell holds leading positions in the personal protective equipment and medical gloves market, as well as in the sexual health and well-being category worldwide."
+S32,Diversified mining and metals
+APX,Linguistics services
+ASB,Shipbuilding
+NAN,"The Company is focused on the research, development, and commercialisation of innovative technologies in infection control and decontamination.  The Company's strategic goal is to establish itself as a recognised global leader in economical, safe, low or non toxic and rapid disinfection, sterilisation and decontamination products."
+TWE,"The Company is an international wine business with a portfolio of luxury, premium and commercial wines."
+IGL,Marketing and print communications
+NAB,"Banking, financial and related services."
+SGP,"Stockland is one of the largest diversified property groups in Australia.  Stockland owns, manages and develops a range of assets including shopping centres, office and industrial assets, residential communities and retirement villages."
+MFG,"The principal activity of the Group is funds management with the objective of offering international investment funds to high net worth and retail investors in Australia and New Zealand, and institutional investors globally."
+CNU,Owning and operating a nationwide fixed line access network infrastructure in New Zealand.
+GNC,Global AgriBusiness.
+BPT,"Oil and gas exploration, development and production, and investment in the resource industry."
+IGO,"Nickel, Gold and Copper-Zinc-Silver mining, development and exploration company"
+SYR,Mining explorer
+WSA,Mining & exploration
+SUN,"Provision of banking, insurance, wealth and other financial solutions to the retail, corporate and commercial sectors."
+SGF,"Fleet management, vehicle leasing and salary packaging services."
+API,Wholesale distributor of pharmaceutical and allied products and retail support services to pharmacists.
+JHX,"Research, development, manufacture, sale and marketing of fibre cement building materials."
+SPL,"Biotechnology - development of dendrimer technology for pharmaceutical, life science and other applications."
+ANZ,ANZ provides banking and financial products and services to individual and business customers.
+AAC,Agriculture
+HT1,"HT&E Limited (formerly APN News & Media Limited) is a leading media and entertainment business, with diverse assets in Australia and Hong Kong."
+AZJ,"Integrated heavy haul freight railway operator and rail transporter of coal from mine to port for export markets, with portfolio of other bulk, general and containerised freight businesses, as well as large-scale rail services activities."
+VRT,Assisted reproductive services.
+AJM,Mineral exploration and services business.
+MSB,A biotechnology company in the area of adult stem cell technology.
+QBE,"Underwriting general and reinsurance risks, investment management and management of the economic entity's share of the NSW and Victorian workers' compensation scheme."
+MYX,"Develops, manufactures and markets branded and generic pharmaceutical products globally"
+EVN,Gold mining
+ALL,"Designs, develops, manufactures and markets a diverse range of products and services including electronic gaming machines and casino management systems. The Group also operates within the online social gaming and real money wager markets."
+AHG,Automotive retail and Logistics
+TGR,Production and marketing of salmon.
+OGC,"OceanaGold Corporation is a multinational, mid-tier gold mining company with significant global operating, development and exploration experience.
+
+OceanaGold¿¿¿s operating assets are located in the Philippines, New Zealand and the United States and inc"
+SWM,National Media Group.
+IMF,Provision of litigation funding and support services to insolvency and legal practitioners.
+AYS,Provider of mobile services in Australia.
+REA,Media/publishing.
+GXY,"Production of lithium concentrate and exploration for minerals in Australia, Canada and Argentina"
+GXL,"Greencross is Australasia's leading pet care specialist. Greencross provides veterinary services and supplies pet related products and services (including grooming, dog washing and obedience training) through a network of over 330 veterinary clinics and r"
+ABP,"Abacus Property Group is a leading diversified property group that specialises in investing in core plus property opportunities across commercial property markets in Australia and New Zealand. 
+Abacus' strategy is to invest our capital into core plus pro"
+FBU,"Building products, distribution, laminates & panels, concrete, construction and steel."
+AVN,Holding of real property assets
+OSH,"Exploration, development and production of oil and gas resources, with 98% of the Company assets in Papua New Guinea."
+WEB,"Full range of online travel booking service for flights, hotels, car hire, cruises, tours."
+NEA,"Provision of geospatial map technology for business, enterprises and government customers."
+IFM,Infomedia is a leading global provider of SaaS solutions to the parts and service sector of the automotive industry.
+SGM,Global metal recycling and innovative recycling solutions.
+CLQ,"The Company is an environmental and mining services group serving the air purification, resources recovery and water purification markets."
+BXB,"Brambles is a supply-chain logistics company operating in more than 
+50 countries, primarily through the CHEP and IFCO brands.
+The Group specialises in the pooling of unit-load equipment and associated services, focusing on the outsourced management of"
+IEL,Education services provider
+AHY,"The Company manufactures, markets and distributes consumer products across the Feminine Hygiene, In continence Hygiene, Baby Hygiene, Consumer Tissue and Professional Hygiene product categories."
+CMA,Real estate investment trust.
+BRG,"Design, development, marketing and distribution of small electrical appliances in more than 50 countries around the world including Australia, New Zealand, Canada,  USA, UK and Germany"
+SXL,Media
+IRI,Computer systems management products
+WOW,"Food, general merchandise and specialty retailing through chain store operations"
+CWP,Property investors and developers.
+JHG,Global investment management
+PNI,Funds Management
+NWL,Provider of superannuation and non-superannuation platform products to financial intermediaries and clients
+ORE,Minerals exploration and production company with focus on developing Lithium/Potash resources in Argentina.
+WES,"Diversified industrial with interests including retail operations covering supermarkets, general merchandise and specialty departments stores, fuel and liquor outlets and home improvement and office supplies; coal mining; gas processing and distribution; insurance; chemicals and fertilisers; and industrial and safety product distribution."
+RIC,"The production of animal nutrition solutions including stockfeed milling and the marketing and provision of rural products and services, and the recycling of animal and fish by-products into high performance feed ingredient solutions for the pet food, aquaculture and livestock industries."
+OMH,"The principal activity of the Chief Entity is investment holding.  The principal activity of the Chief Entity's controlled entities is the mining, processing and sale of specialised metal materials."
+PME,Development and supply of software and IT solutions to the Public and Private Health sectors
+SKC,Gaming entertainment business.
+SGR,"The Company operates The Star in Sydney, The Star Gold Coast and Treasury Casino & Hotel in Brisbane. The Company also manages the Gold Coast Convention and Exhibition Centre."
+SYD,Airport Operations
+INA,"Owns,operates and develops quality affordable seniors living accommodation for older Australians"
+SLK,Provider of tourism and transport services.
+BVS,"Provider of software products and services to clients operating in the wealth management and funds administration industries which support the functions needed to manage and administer financial products across investment products, wrap platforms, superannuation and pension, retirement, life insurance, private wealth and portfolio administration."
+WGN,Diversified Australian construction materials provider focused on the production and sale of construction materials and is an innovative producer of new generation building materials through its composite fibre technologies and earth friendly concrete businesses.
+CHC,"The Group is an integrated property group operating across property funds management, development, property investment banking, property management and property investment."
+PDL,Global asset management
+AX1,Accent owns and operates a number of footwear and apparel businesses in the performance and active lifestyle sectors.
+TLS,"Telecommunications Carrier. Provision of telecommunications and information services, including mobiles, internet, and pay television."
+NHF,Private health insurer
+SLC,Telecommunications infrastructure and managed services
+MGR,"Real estate investment, development and investment management."
+MP1,Telecommunications
+CYB,Banking products and services
+MLX,"Tin and Copper mining, production and exploration. Nickel and other base metals exploration and development."
+INR,Exploration for mineral deposits in the USA.
+PRU,Mining and Mineral exploration
+SEA,Oil and gas exploration
+BLA,Diversified fund manager of alternative investments.
+MYO,Provider of desktop and cloud business management software solutions to businesses and accounting practices in Australia and New Zealand.
+FAR,Exploration for oil and gas
+CQE,Ownership of established freehold early learning centers.
+KGN,Online retail
+ASX,"ASX is a fully integrated exchange across multiple asset classes - equities, fixed income, derivatives and managed funds. We service retail, institutional and corporate customers directly and through Australian and international intermediaries. 
+We provi"
+COL,"Australian retailer of products such as fresh food, groceries, household goods, liquor, fuel and financial services via stores and online"
+GWA,"Supplier of building fixtures and fittings to residential and commercial premises, including sanitaryware and bathroom products, baths, tapware, sinks and laundry tubs, door hardware and access systems, and locksmithing services."
+WGX,Mining producing entity
+CLW,Investment in Australian real estate assets.
+CIP,Holds a portfolio of industrial properties within Australia.
+GMA,Provider of lenders mortgage insurance in Australia.
+CGF,"The Company is a multi-faceted financial services organisation, with core businesses in annuities, funds management and administration platforms."
+IMD,Provider of leading real time sub-surface technologies to the global minerals industry and other targeted non-mining markets.
+FXL,"Point of sale lease and rental finance for the IT equipment, electrical appliance and other retail markets."
+CTX,"Purchase, refining, distribution, and marketing of petroleum products and the operation of convenience stores."
+PMV,Investment in listed securities;
+LYC,Production of Rare Earths concentrate at Mt Weld.  Production and sale of Rare Earths products from the LAMP in Malaysia.
+GDI,"Owning, managing and developing real estate assets and managing real estate funds on behalf of third party investors."
+PPS,Portfolio administration services
+GOZ,Investing in Australian commercial real estate
+NEC,Media and entertainment company.
+BOQ,"Banking, financial and related services."
+LNG,"LNGL's Mission is to deliver safe, reliable, energy e¿¿¿cient, ¿¿¿exible mid-scale LNG liquefaction solutions at the industry¿¿¿s lowest full cycle cost to our customers and partners, while minimizing ecological impacts."
+HSN,"Development, Integration and support of billings systems software for the telecommunications and utilities industries."
+TAH,"The provision of gambling and other entertainment services. The company has wagering and media, gaming services, and Keno operations."
+SCG,Property management and development.
+AST,Electricity transmission and distribution and gas distribution.
+SEK,Operator of online employment classifieds and education and training.
+SVW,A diversified operating and investment group which comprises wholly-owned industrial operating businesses alongside key strategic investments in media and industrial equipment hire.
+REG,Residential aged care provider.
+VEA,"Manufacture, distribution and supply of petroleum products to retail and commercial customers."
+WPL,"Management and operation of hydrocarbon exploration, development, production, transportation and marketing; implementation and operation of the North West Shelf Gas Project; exploration and development of gas, oil and condensate reserves."
